@@ -14,7 +14,7 @@ To built the container just have the following.
 1. Clone this repo to your local machine:
 
     ```
-    git clone ...
+    git clone https://github.com/autonomousrivercleanup/docker_rosbag.git
     ```
 
 2. Navigate to the directory for this file.
