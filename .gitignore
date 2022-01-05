@@ -1,0 +1,3 @@
+data_output/*.png
+*.png
+.DS_Store
