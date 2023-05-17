@@ -35,11 +35,11 @@ To built the container just have the following.
 
   To pull the image from dockerhub run the following command:
       
-    docker pull autonomousrivercleanup/rosbag_extractor:v1
+    docker pull upcircleai/rosbag_extractor:v1
       
   Then, to make sure it works still with the run instructions below, add a new tag to the image:
 
-    docker tag autonomousrivercleanup/rosbag_extractor:v1 rosbag_extractor
+    docker tag upcircleai/rosbag_extractor:v1 rosbag_extractor
 
 ## Running the Container.
 
